@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Kalkulator_FUT/static/css/main.729573c3.chunk.css",
+    "main.js": "/Kalkulator_FUT/static/js/main.8e161a18.chunk.js",
+    "main.js.map": "/Kalkulator_FUT/static/js/main.8e161a18.chunk.js.map",
+    "runtime-main.js": "/Kalkulator_FUT/static/js/runtime-main.38e802e0.js",
+    "runtime-main.js.map": "/Kalkulator_FUT/static/js/runtime-main.38e802e0.js.map",
+    "static/js/2.33367fcc.chunk.js": "/Kalkulator_FUT/static/js/2.33367fcc.chunk.js",
+    "static/js/2.33367fcc.chunk.js.map": "/Kalkulator_FUT/static/js/2.33367fcc.chunk.js.map",
+    "index.html": "/Kalkulator_FUT/index.html",
+    "precache-manifest.1780a3fbef6ad3a93824299c26df5fdd.js": "/Kalkulator_FUT/precache-manifest.1780a3fbef6ad3a93824299c26df5fdd.js",
+    "service-worker.js": "/Kalkulator_FUT/service-worker.js",
+    "static/css/main.729573c3.chunk.css.map": "/Kalkulator_FUT/static/css/main.729573c3.chunk.css.map"
+  }
+}
